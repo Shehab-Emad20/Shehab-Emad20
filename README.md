@@ -12,7 +12,7 @@
 <!--Intro start-->
 - :school: I am a `Junior` at [Faculty of Science & Information Technology] at [Minia University].
 - 🌱 &nbsp;I'm on track for learning more about Mobile Developer with Flutter
-- 🔭 I’m currently working on **Dart, Flutter, FireBase, Hive,**
+- 🔭 I’m currently working on **Dart, Flutter, FireBase, Hive ,bloc ,git ,github ,Object-Oriented Programming (OOP), Postman API**
 -  :nerd_face: Always `learning new things`.
 - 🏠 Don't hesitate to drop me a **👋** on Discord –(Sheheb_Emad) my username!
 <!--Intro end-->
