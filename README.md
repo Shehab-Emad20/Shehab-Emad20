@@ -10,7 +10,7 @@
 <br><br>
 
 <!--Intro start-->
-- :school: I am a `Junior` at [Faculty of Science & Information Technology] at [Minia University].
+- :school: I am a `Graduation` at [Faculty of Science & Information Technology] at [Minia University].
 - 🌱 &nbsp;I'm on track for learning more about Mobile Developer with Flutter
 - 🔭 I’m currently working on **Dart, Flutter, FireBase, Hive ,bloc ,git ,github ,Object-Oriented Programming (OOP), Postman API**
 -  :nerd_face: Always `learning new things`.
