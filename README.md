@@ -13,7 +13,8 @@
 - :school: I am a `Graduation` at [Faculty of Science & Information Technology] at [Minia University].
 - 🌱 &nbsp;I'm on track for learning more about Mobile Developer with Flutter
 - 🔭 I’m currently working on **Dart, Flutter, FireBase, Hive ,bloc ,git ,github ,Object-Oriented Programming (OOP), Postman API**
--  :nerd_face: Always `learning new things`.
+- 📫 How to reach me **shehabz2014@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-pP4JKsHRVlOkffloCMtpAJyIwZKa0L8/view?usp=drive_link](https://drive.google.com/file/d/1kek1oejuyOFVWXJb5Npk72KDuYV9_FK6/view)
 - 🏠 Don't hesitate to drop me a **👋** on Discord –(Sheheb_Emad) my username!
 <!--Intro end-->
 <br>
